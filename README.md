@@ -1,2 +1,4 @@
 ### Hi I'm Rayan, 
-I'm a STEM fan, currently studying Python, i use GitHub mainly to store my projects and keep track of any change 
+I'm a STEM fan from Belgium, i like to build and code stuff to help people and solve problems.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayanlupo_icons=true&theme=transparent)
