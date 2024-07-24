@@ -21,7 +21,7 @@ Skills: Python / Fast learning  / Cad design / Electronic circuits
 
 ### My Skills
 
--Python
+- Python
 - Arduino
 - C
 - Fusion 360
