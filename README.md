@@ -19,3 +19,9 @@ Skills: Python / Fast learning  / Cad design / Electronic circuits
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayanlupo&show_icons=true)  
 
+### My Skills
+
+-Python
+- Arduino
+- C
+- Fusion 360
