@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Rayan<br>I am robotics enthusiast<br>I like to build and code stuff to help people and solve problems. my main programming language is python but i do code in C++ as well<br><br>🔭 I’m currently working on a an autonomous robot bin meant to move around on his own <br> I’m currently learning Machine Learning<br> Ask me about everything you need help with <br> You can reach me at contact.rayang@gmail.com or DM on Instagram: @rayan.e_mp4<br>
+Hi there, I'm Rayan<br>I am robotics enthusiast<br>I like to build and code stuff to help people and solve problems. my main programming language is python but i do code in C++ as well<br> I’m currently working on a an autonomous robot bin meant to move around on his own <br> I’m currently learning Machine Learning<br> Ask me about everything you need help with <br> You can reach me at contact.rayang@gmail.com or DM on Instagram: @rayan.e_mp4<br>
 
 
 ## 🌐 Socials:
